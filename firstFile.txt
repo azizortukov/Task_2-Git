@@ -1,9 +1,9 @@
 This is line 1.
 Updated line 2 on git_1.
-This is line 3.
+New change on line 3 on git_1
 This is line 4.
 Updated line 5 on git_1.
-This is line 6.
+New change on line 6 on git_1
 Updated line 7 on git_1.
 This is line 8.
 Updated line 9 on git_1.

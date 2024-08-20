@@ -1,8 +1,8 @@
 This is line 1.
-This is line 2.
+Updated line 2 on git_2.
 This is line 3.
 This is line 4.
-This is line 5.
+Updated line 5 on git_2.
 This is line 6.
 This is line 7.
 This is line 8.

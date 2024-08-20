@@ -4,7 +4,7 @@ This is line 3.
 This is line 4.
 Updated line 5 on git_1.
 This is line 6.
-This is line 7.
+Updated line 7 on git_1.
 This is line 8.
-This is line 9.
+Updated line 9 on git_1.
 This is line 10.
